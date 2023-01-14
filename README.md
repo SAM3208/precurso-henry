@@ -1,2 +1,1 @@
-# precurso-henry
-repositorio de prueba, henry
+Este proyecto es una bonita prueba
